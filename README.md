@@ -7,53 +7,25 @@
 
 
 ## 2020
-- [ACMMM 2020] A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild [[paper](https://arxiv.org/pdf/2008.10010.pdf)] [[code](https://github.com/Rudrabha/Wav2Lip)]
-- [ECCV] Talking-head Generation with Rhythmic Head Motion [[paper](https://arxiv.org/pdf/2007.08547.pdf)] [[code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)]
-- [ECCV] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation][[paper](https://wywu.github.io/projects/MEAD/support/MEAD.pdf)][[code](https://github.com/uniBruce/Mead)]
-- [ECCV] Neural voice puppetry:Audio-driven facial reenactment[[paper](https://arxiv.org/pdf/1912.05566.pdf)]
-- HeadGAN: Video-and-Audio-Driven Talking Head Synthesis[[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-## 2019
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- 
+| title | - | paper | code | dataset |
+| --- | ---| --- | --- | --- |
+|A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild | ACMMM|[paper](https://arxiv.org/pdf/2008.10010.pdf) |[code](https://github.com/Rudrabha/Wav2Lip) | LRS2 |
+|Talking-head Generation with Rhythmic Head Motion |ECCV |[paper](https://arxiv.org/pdf/2007.08547.pdf) | [code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)| VoxCeleb2,  LRW,  LRS3-TED |
+|MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation|ECCV | (https://wywu.github.io/projects/MEAD/support/MEAD.pdf)| [paper](https://arxiv.org/pdf/1912.05566.pdf)| VoxCeleb2, AffectNet |
+|Neural voice puppetry:Audio-driven facial reenactment|ECCV  |[paper]()|[code]()| |
+|HeadGAN:Video-and-Audio-Driven Talking Head Synthesis|-|[paper](https://arxiv.org/pdf/2012.08261v1.pdf)|-|VoxCeleb2|
+|MakeItTalk: Speaker-Aware Talking Head Animation| |[paper](https://github.com/yzhou359/MakeItTalk)|[code](https://github.com/adobe-research/MakeItTalk), [code](https://github.com/yzhou359/MakeItTalk)| VoxCeleb2, VCTK |
+| | |[paper]()|[code]()| |
+| | |[paper]()|[code]()| |
+| | |[paper]()|[code]()| |
 
+## 2019
+| title | - | paper | code | dataset |
+| --- | ---| --- | --- | --- |
+| | |[paper]()|[code]()| |
+| | |[paper]()|[code]()| |
+| | |[paper]()|[code]()| |
 ## 2018
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- [][[paper]()]
-- 
 
 ## datasets
 - VoxCeleb [link](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
