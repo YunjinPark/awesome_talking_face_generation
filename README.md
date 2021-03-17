@@ -12,24 +12,33 @@
 |A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild | ACMMM|[paper](https://arxiv.org/pdf/2008.10010.pdf) |[code](https://github.com/Rudrabha/Wav2Lip) | LRS2 |
 |Talking-head Generation with Rhythmic Head Motion |ECCV |[paper](https://arxiv.org/pdf/2007.08547.pdf) | [code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)| VoxCeleb2,  LRW,  LRS3-TED |
 |MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation|ECCV | [paper](https://arxiv.org/pdf/1912.05566.pdf)| [code](https://wywu.github.io/projects/MEAD/support/MEAD.pdf)| VoxCeleb2, AffectNet |
-|Neural voice puppetry:Audio-driven facial reenactment|ECCV  |[paper]()|[code]()| |
+|Neural voice puppetry:Audio-driven facial reenactment|ECCV|[paper](https://arxiv.org/pdf/1912.05566.pdf)|-| |
 |HeadGAN:Video-and-Audio-Driven Talking Head Synthesis|-|[paper](https://arxiv.org/pdf/2012.08261v1.pdf)|-|VoxCeleb2|
-|MakeItTalk: Speaker-Aware Talking Head Animation| |[paper](https://github.com/yzhou359/MakeItTalk)|[code](https://github.com/adobe-research/MakeItTalk), [code](https://github.com/yzhou359/MakeItTalk)| VoxCeleb2, VCTK |
+|MakeItTalk: Speaker-Aware Talking Head Animation|-|[paper](https://github.com/yzhou359/MakeItTalk)|[code](https://github.com/adobe-research/MakeItTalk), [code](https://github.com/yzhou359/MakeItTalk)| VoxCeleb2, VCTK |
 |Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose |- |[paper](https://arxiv.org/pdf/2002.10137.pdf)|[code](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)|  ImageNet,  FaceWarehouse,  LRW|
 |Photorealistic Lip Sync with Adversarial Temporal Convolutional Networks| -|[paper](https://arxiv.org/pdf/2002.08700.pdf)|-| |
 |SPEECH-DRIVEN FACIAL ANIMATION USING POLYNOMIAL FUSION OF FEATURES|-|[paper](https://arxiv.org/pdf/1912.05833.pdf)|-|LRW|
-| | |[paper]()|[code]()| |
-| | |[paper]()|[code]()| |
-| | |[paper]()|[code]()| |
-| | |[paper]()|[code]()| |
+|Animating Face using Disentangled Audio Representations|WACV|[paper](https://arxiv.org/pdf/1910.00726.pdf)|-| |
+|Everybody’s Talkin’: Let Me Talk as You Want|-|[paper](https://arxiv.org/pdf/2001.05201.pdf)|-| |
+|Multimodal Inputs Driven Talking Face Generation With Spatial-Temporal Dependency|-|[paper](https://www.researchgate.net/profile/Jun_Yu42/publication/339224051_Multimodal_Inputs_Driven_Talking_Face_Generation_With_Spatial-Temporal_Dependency/links/5eae2c6a92851cb2676fa016/Multimodal-Inputs-Driven-Talking-Face-Generation-With-Spatial-Temporal-Dependency.pdf)|-| |
+|Speech Driven Talking Face Generation from a Single Image and an Emotion Condition|-|[paper](https://arxiv.org/pdf/2008.03592v1.pdf)|-| |
 
 ## 2019
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
+|Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss|CVPR|[paper](https://arxiv.org/pdf/1905.03820.pdf)|[code](https://github.com/lelechen63/ATVGnet)|VGG Face, LRW|
 | | |[paper]()|[code]()| |
 | | |[paper]()|[code]()| |
 | | |[paper]()|[code]()| |
+
 ## 2018
+| title | - | paper | code | dataset |
+| --- | ---| --- | --- | --- |
+
+| | |[paper]()|[code]()| |
+| | |[paper]()|[code]()| |
+
+## 2017
 
 ## datasets
 - VoxCeleb [link](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
