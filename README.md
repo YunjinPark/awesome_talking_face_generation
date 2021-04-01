@@ -3,7 +3,9 @@
 # papers & codes 
 
 ## 2021
-- Visual Speech Enhancement Without A Real Visual Stream [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Hegde_Visual_Speech_Enhancement_Without_a_Real_Visual_Stream_WACV_2021_paper.pdf)]
+| title | - | paper | code | dataset |
+| --- | ---| --- | --- | --- |
+|Visual Speech Enhancement Without A Real Visual Stream | | [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Hegde_Visual_Speech_Enhancement_Without_a_Real_Visual_Stream_WACV_2021_paper.pdf)|-|-|
 
 
 ## 2020
@@ -27,16 +29,15 @@
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
 |Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss|CVPR|[paper](https://arxiv.org/pdf/1905.03820.pdf)|[code](https://github.com/lelechen63/ATVGnet)|VGG Face, LRW|
-| | |[paper]()|[code]()| |
-| | |[paper]()|[code]()| |
-| | |[paper]()|[code]()| |
+|- |- |[paper]()|[code]()|- |
+|- |- |[paper]()|[code]()|- |
+|- |- |[paper]()|[code]()|- |
 
 ## 2018
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
-
-| | |[paper]()|[code]()| |
-| | |[paper]()|[code]()| |
+|-|- |[paper]()|[code]()|- |
+|-|- |[paper]()|[code]()|- |
 
 ## 2017
 
