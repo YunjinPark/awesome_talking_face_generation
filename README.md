@@ -13,7 +13,7 @@
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
 |A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild | ACMMM|[paper](https://arxiv.org/pdf/2008.10010.pdf) |[code](https://github.com/Rudrabha/Wav2Lip) | LRS2 |
-|Talking-head Generation with Rhythmic Head Motion |ECCV |[paper](https://arxiv.org/pdf/2007.08547.pdf) | [code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)| VoxCeleb2,  LRW,  LRS3-TED |
+|Talking-head Generation with Rhythmic Head Motion |ECCV |[paper](https://arxiv.org/pdf/2007.08547.pdf) | [code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)| Crema, Grid, Voxceleb, Lrs3  |
 |MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation|ECCV | [paper](https://arxiv.org/pdf/1912.05566.pdf)| [code](https://github.com/uniBruce/Mead)| VoxCeleb2, AffectNet |
 |Neural voice puppetry:Audio-driven facial reenactment|ECCV|[paper](https://arxiv.org/pdf/1912.05566.pdf)|-| |
 |HeadGAN:Video-and-Audio-Driven Talking Head Synthesis|-|[paper](https://arxiv.org/pdf/2012.08261v1.pdf)|-|VoxCeleb2|
