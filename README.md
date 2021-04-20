@@ -17,7 +17,7 @@
 |MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation|ECCV | [paper](https://wywu.github.io/projects/MEAD/support/MEAD.pdf)| [code](https://github.com/uniBruce/Mead)| VoxCeleb2, AffectNet |
 |Neural voice puppetry:Audio-driven facial reenactment|ECCV|[paper](https://arxiv.org/pdf/1912.05566.pdf)|-| |
 |HeadGAN:Video-and-Audio-Driven Talking Head Synthesis|-|[paper](https://arxiv.org/pdf/2012.08261v1.pdf)|-|VoxCeleb2|
-|MakeItTalk: Speaker-Aware Talking Head Animation|-|[paper](https://github.com/yzhou359/MakeItTalk)|[code](https://github.com/adobe-research/MakeItTalk), [code](https://github.com/yzhou359/MakeItTalk)| VoxCeleb2, VCTK |
+|MakeItTalk: Speaker-Aware Talking Head Animation|-|[paper](https://arxiv.org/pdf/2004.12992.pdf)|[code](https://github.com/adobe-research/MakeItTalk), [code](https://github.com/yzhou359/MakeItTalk)| VoxCeleb2, VCTK |
 |Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose |- |[paper](https://arxiv.org/pdf/2002.10137.pdf)|[code](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)|  ImageNet,  FaceWarehouse,  LRW|
 |Photorealistic Lip Sync with Adversarial Temporal Convolutional Networks| -|[paper](https://arxiv.org/pdf/2002.08700.pdf)|-| |
 |SPEECH-DRIVEN FACIAL ANIMATION USING POLYNOMIAL FUSION OF FEATURES|-|[paper](https://arxiv.org/pdf/1912.05833.pdf)|-|LRW|
