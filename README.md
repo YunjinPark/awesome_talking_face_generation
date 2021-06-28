@@ -7,8 +7,8 @@
 | --- | ---| --- | --- | --- |
 |Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation |AAAI |[paper](https://www.aaai.org/AAAI21Papers/AAAI-4848.LiL.pdf) |[code(coming soon)](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|Mocap dataset |
 |Visual Speech Enhancement Without A Real Visual Stream | -| [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Hegde_Visual_Speech_Enhancement_Without_a_Real_Visual_Stream_WACV_2021_paper.pdf)|-|-|
-
-
+|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation|-|[paper](https://arxiv.org/pdf/2104.11116v1.pdf)|[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)|VoxCeleb2|
+|Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary|-|[paper](https://arxiv.org/pdf/2104.14631v1.pdf)|[code](https://github.com/sibozhang/Text2Video)|
 ## 2020
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
