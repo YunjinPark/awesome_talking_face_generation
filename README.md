@@ -16,7 +16,7 @@
 |Talking-head Generation with Rhythmic Head Motion |ECCV |[paper](https://arxiv.org/pdf/2007.08547.pdf) | [code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)| Crema, Grid, Voxceleb, Lrs3  |
 |MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation|ECCV | [paper](https://wywu.github.io/projects/MEAD/support/MEAD.pdf)| [code](https://github.com/uniBruce/Mead)| VoxCeleb2, AffectNet |
 |Neural voice puppetry:Audio-driven facial reenactment|ECCV|[paper](https://arxiv.org/pdf/1912.05566.pdf)|-| |
-|Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars| ECCV|
+|Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars| ECCV|[paper](https://arxiv.org/pdf/2008.10174v1.pdf) |[code](https://github.com/saic-violet/bilayer-model)|
 |HeadGAN:Video-and-Audio-Driven Talking Head Synthesis|-|[paper](https://arxiv.org/pdf/2012.08261v1.pdf)|-|VoxCeleb2|
 |MakeItTalk: Speaker-Aware Talking Head Animation|-|[paper](https://arxiv.org/pdf/2004.12992.pdf)|[code](https://github.com/adobe-research/MakeItTalk), [code](https://github.com/yzhou359/MakeItTalk)| VoxCeleb2, VCTK |[paper](https://arxiv.org/pdf/2008.10174v1.pdf)|[code](https://github.com/saic-violet/bilayer-model)|VoxCeleb2|
 |Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose |- |[paper](https://arxiv.org/pdf/2002.10137.pdf)|[code](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)|  ImageNet,  FaceWarehouse,  LRW|
