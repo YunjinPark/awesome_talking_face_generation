@@ -5,7 +5,10 @@
 ## 2021
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
-|Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation |AAAI |[paper](https://www.aaai.org/AAAI21Papers/AAAI-4848.LiL.pdf) |[code(coming soon)](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|Mocap dataset |
+|LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lahiri_LipSync3D_Data-Efficient_Learning_of_Personalized_3D_Talking_Faces_From_Video_CVPR_2021_paper.pdf)|-|-|
+|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Pose-Controllable_Talking_Face_Generation_by_Implicitly_Modularized_Audio-Visual_Representation_CVPR_2021_paper.pdf)|[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)|VoxCeleb2, LRW|
+|Flow-guided One-shot Talking Face Generation with a High-resolution Audio-visual Dataset|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf)|-|HDTF|
+|Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation |AAAI |[paper](https://arxiv.org/pdf/2104.07995.pdf) |[code(coming soon)](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|Mocap dataset |
 |Visual Speech Enhancement Without A Real Visual Stream | -| [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Hegde_Visual_Speech_Enhancement_Without_a_Real_Visual_Stream_WACV_2021_paper.pdf)|-|-|
 |Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation|-|[paper](https://arxiv.org/pdf/2104.11116v1.pdf)|[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)|VoxCeleb2|
 |Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary|-|[paper](https://arxiv.org/pdf/2104.14631v1.pdf)|[code](https://github.com/sibozhang/Text2Video)|
