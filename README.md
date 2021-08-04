@@ -15,6 +15,7 @@
 ## 2020
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
+|Speech Driven Talking Face Generation from a Single Image and an Emotion Condition|-|[paper](https://arxiv.org/pdf/2008.03592.pdf)|[code](https://github.com/eeskimez/emotalkingface)|CREMA-D|
 |A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild | ACMMM|[paper](https://arxiv.org/pdf/2008.10010.pdf) |[code](https://github.com/Rudrabha/Wav2Lip) | LRS2 |
 |Talking-head Generation with Rhythmic Head Motion |ECCV |[paper](https://arxiv.org/pdf/2007.08547.pdf) | [code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)| Crema, Grid, Voxceleb, Lrs3  |
 |MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation|ECCV | [paper](https://wywu.github.io/projects/MEAD/support/MEAD.pdf)| [code](https://github.com/uniBruce/Mead)| VoxCeleb2, AffectNet |
@@ -34,19 +35,11 @@
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
 |Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss|CVPR|[paper](https://arxiv.org/pdf/1905.03820.pdf)|[code](https://github.com/lelechen63/ATVGnet)|VGG Face, LRW|
-|- |- |[paper]()|[code]()|- |
-|- |- |[paper]()|[code]()|- |
-|- |- |[paper]()|[code]()|- |
 
-## 2018
-| title | - | paper | code | dataset |
-| --- | ---| --- | --- | --- |
-|-|- |[paper]()|[code]()|- |
-|-|- |[paper]()|[code]()|- |
-
-## 2017
 
 ## datasets
+- HDTF[link](https://github.com/MRzzm/HDTF)
+- CREMA-D[link](https://github.com/CheyneyComputerScience/CREMA-D)
 - VoxCeleb [link](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 - LRS2 [link](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)
 - LRW [link](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)
