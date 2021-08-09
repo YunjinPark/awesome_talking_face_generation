@@ -10,7 +10,6 @@
 |Flow-guided One-shot Talking Face Generation with a High-resolution Audio-visual Dataset|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf)|-|HDTF|
 |Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation |AAAI |[paper](https://arxiv.org/pdf/2104.07995.pdf) |[code(coming soon)](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|Mocap dataset |
 |Visual Speech Enhancement Without A Real Visual Stream | -| [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Hegde_Visual_Speech_Enhancement_Without_a_Real_Visual_Stream_WACV_2021_paper.pdf)|-|-|
-|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation|-|[paper](https://arxiv.org/pdf/2104.11116v1.pdf)|[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)|VoxCeleb2|
 |Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary|-|[paper](https://arxiv.org/pdf/2104.14631v1.pdf)|[code](https://github.com/sibozhang/Text2Video)|
 ## 2020
 | title | - | paper | code | dataset |
