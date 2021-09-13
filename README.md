@@ -14,6 +14,8 @@
 |Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary|-|[paper](https://arxiv.org/pdf/2104.14631v1.pdf)|[code](https://github.com/sibozhang/Text2Video)|-|
 |Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion|IJCAI|[paper](https://arxiv.org/pdf/2107.09293.pdf)|- | VoxCeleb, GRID, LRW |
 |3D-TalkEmo: Learning to Synthesize 3D Emotional Talking Head|-|[paper](https://arxiv.org/pdf/2104.12051.pdf)|-|-|
+|AnyoneNet: Synchronized Speech and Talking Head Generation for Arbitrary Person| - |[paper](https://arxiv.org/pdf/2108.04325v2.pdf)|-| VoxCeleb2, Obama|
+
 ## 2020
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
