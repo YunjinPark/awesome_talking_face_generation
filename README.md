@@ -14,7 +14,7 @@
 |Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation |AAAI |[paper](https://arxiv.org/pdf/2104.07995.pdf) |[code(coming soon)](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|Mocap dataset |
 |Visual Speech Enhancement Without A Real Visual Stream | -| [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Hegde_Visual_Speech_Enhancement_Without_a_Real_Visual_Stream_WACV_2021_paper.pdf)|-|-|
 |Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary|-|[paper](https://arxiv.org/pdf/2104.14631v1.pdf)|[code](https://github.com/sibozhang/Text2Video)|-|
-|Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion|IJCAI|[paper](https://arxiv.org/pdf/2107.09293.pdf)|- | VoxCeleb, GRID, LRW |
+|Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion|IJCAI|[paper](https://arxiv.org/pdf/2107.09293.pdf)|[code](https://github.com/wangsuzhen/Audio2Head) | VoxCeleb, GRID, LRW |
 |3D-TalkEmo: Learning to Synthesize 3D Emotional Talking Head|-|[paper](https://arxiv.org/pdf/2104.12051.pdf)|-|-|
 |AnyoneNet: Synchronized Speech and Talking Head Generation for Arbitrary Person| - |[paper](https://arxiv.org/pdf/2108.04325v2.pdf)|-| VoxCeleb2, Obama|
 
