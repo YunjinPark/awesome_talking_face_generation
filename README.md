@@ -32,7 +32,7 @@
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
 |[Survey]What comprises a good talking-head video generation?: A survey and benchmark|-|[paper](https://arxiv.org/pdf/2005.03201.pdf)|[code](https://github.com/lelechen63/talking-head-generation-survey)|-|
-|What comprises a good talking-head video generation?: A Survey and Benchmark| -|[paper](https://arxiv.org/pdf/2005.03201.pdf)|[code](https://github.com/lelechen63/talking-head-generation-survey)|-|
+|One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing|CVPR(21)|[paper](https://arxiv.org/abs/2011.15126)|[code](https://github.com/NVlabs/imaginaire)|-|
 |Speech Driven Talking Face Generation from a Single Image and an Emotion Condition|-|[paper](https://arxiv.org/pdf/2008.03592.pdf)|[code](https://github.com/eeskimez/emotalkingface)|CREMA-D|
 |A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild | ACMMM|[paper](https://arxiv.org/pdf/2008.10010.pdf) |[code](https://github.com/Rudrabha/Wav2Lip) | LRS2 |
 |Talking-head Generation with Rhythmic Head Motion |ECCV |[paper](https://arxiv.org/pdf/2007.08547.pdf) | [code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)| Crema, Grid, Voxceleb, Lrs3  |
