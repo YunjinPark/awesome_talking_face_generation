@@ -1,10 +1,17 @@
 # Awesome talking face generation
 
 # papers & codes 
+## 2022
+
+| title | - | paper | code | dataset |
+| --- | ---| --- | --- | --- |
+| StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN | -| [paper](https://arxiv.org/abs/2203.04036) | [code](https://github.com/FeiiYin/StyleHEAT) | - |
+
 
 ## 2021
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
+|[Survey]Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis|- |[paper](https://arxiv.org/abs/2109.02081)| | | 
 | Voice2Mesh: Cross-Modal 3D Face Model Generation from Voices |-| [paper](https://arxiv.org/pdf/2104.10299v1.pdf) | [code](https://github.com/choyingw/Voice2Mesh) | - |
 |FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning|-|[paper](https://arxiv.org/pdf/2108.07938v1.pdf)|[code](https://github.com/zhangchenxu528/FACIAL)|-|
 |Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis|-|[paper](https://arxiv.org/pdf/2111.00203v1.pdf)|[code](https://github.com/wuhaozhe/style_avatar) |-|
@@ -24,6 +31,7 @@
 ## 2020
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
+|[Survey]What comprises a good talking-head video generation?: A survey and benchmark|-|[paper](https://arxiv.org/pdf/2005.03201.pdf)|[code](https://github.com/lelechen63/talking-head-generation-survey)|-|
 |What comprises a good talking-head video generation?: A Survey and Benchmark| -|[paper](https://arxiv.org/pdf/2005.03201.pdf)|[code](https://github.com/lelechen63/talking-head-generation-survey)|-|
 |Speech Driven Talking Face Generation from a Single Image and an Emotion Condition|-|[paper](https://arxiv.org/pdf/2008.03592.pdf)|[code](https://github.com/eeskimez/emotalkingface)|CREMA-D|
 |A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild | ACMMM|[paper](https://arxiv.org/pdf/2008.10010.pdf) |[code](https://github.com/Rudrabha/Wav2Lip) | LRS2 |
