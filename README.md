@@ -14,7 +14,7 @@
 |[Survey]Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis|- |[paper](https://arxiv.org/abs/2109.02081)|-|-| 
 |FaceFormer: Speech-Driven 3D Facial Animation with Transformers|CVPR 22|[paper](https://arxiv.org/abs/2112.05329)|-|-|
 | Voice2Mesh: Cross-Modal 3D Face Model Generation from Voices |-| [paper](https://arxiv.org/pdf/2104.10299v1.pdf) | [code](https://github.com/choyingw/Voice2Mesh) | - |
-|FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning|-|[paper](https://arxiv.org/pdf/2108.07938v1.pdf)|[code](https://github.com/zhangchenxu528/FACIAL)|-|
+|FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning|ICCV|[paper](https://arxiv.org/pdf/2108.07938v1.pdf)|[code](https://github.com/zhangchenxu528/FACIAL)|-|
 |Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis|-|[paper](https://arxiv.org/pdf/2111.00203v1.pdf)|[code](https://github.com/wuhaozhe/style_avatar) |-|
 |Audio-Driven Emotional Video Portraits|CVPR|[paper](https://arxiv.org/pdf/2104.07452.pdf)|[code](https://github.com/jixinya/EVP/)|MEAD, LRW|
 |LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lahiri_LipSync3D_Data-Efficient_Learning_of_Personalized_3D_Talking_Faces_From_Video_CVPR_2021_paper.pdf)|-|-|
