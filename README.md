@@ -11,14 +11,15 @@
 ## 2021
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
-|[Survey]Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis|- |[paper](https://arxiv.org/abs/2109.02081)| | | 
+|[Survey]Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis|- |[paper](https://arxiv.org/abs/2109.02081)|-|-| 
+|FaceFormer: Speech-Driven 3D Facial Animation with Transformers|CVPR 22|[paper](https://arxiv.org/abs/2112.05329)|-|-|
 | Voice2Mesh: Cross-Modal 3D Face Model Generation from Voices |-| [paper](https://arxiv.org/pdf/2104.10299v1.pdf) | [code](https://github.com/choyingw/Voice2Mesh) | - |
 |FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning|-|[paper](https://arxiv.org/pdf/2108.07938v1.pdf)|[code](https://github.com/zhangchenxu528/FACIAL)|-|
 |Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis|-|[paper](https://arxiv.org/pdf/2111.00203v1.pdf)|[code](https://github.com/wuhaozhe/style_avatar) |-|
 |Audio-Driven Emotional Video Portraits|CVPR|[paper](https://arxiv.org/pdf/2104.07452.pdf)|[code](https://github.com/jixinya/EVP/)|MEAD, LRW|
 |LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lahiri_LipSync3D_Data-Efficient_Learning_of_Personalized_3D_Talking_Faces_From_Video_CVPR_2021_paper.pdf)|-|-|
 |Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Pose-Controllable_Talking_Face_Generation_by_Implicitly_Modularized_Audio-Visual_Representation_CVPR_2021_paper.pdf)|[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)|VoxCeleb2, LRW|
-|Flow-guided One-shot Talking Face Generation with a High-resolution Audio-visual Dataset|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf)|-|HDTF|
+|Flow-guided One-shot Talking Face Generation with a High-resolution Audio-visual Dataset|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf)|[code](https://github.com/MRzzm/HDTF)|HDTF|
 |MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement|ICCV| [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Richard_MeshTalk_3D_Face_Animation_From_Speech_Using_Cross-Modality_Disentanglement_ICCV_2021_paper.pdf) | [code(coming soon)](https://github.com/facebookresearch/meshtalk) | - |
 |AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis|ICCV| [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.pdf) | [code](https://github.com/YudongGuo/AD-NeRF) | - |
 |Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation |AAAI |[paper](https://arxiv.org/pdf/2104.07995.pdf) |[code(coming soon)](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|Mocap dataset |
