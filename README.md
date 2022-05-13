@@ -13,7 +13,7 @@
 | --- | ---| --- | --- | --- |
 |Parallel and High-Fidelity Text-to-Lip Generation ||[paper](https://arxiv.org/pdf/2107.06831v2.pdf)|| |
 |[Survey]Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis|- |[paper](https://arxiv.org/abs/2109.02081)|-|-| 
-|FaceFormer: Speech-Driven 3D Facial Animation with Transformers|CVPR 22|[paper](https://arxiv.org/abs/2112.05329)|-|-|
+|FaceFormer: Speech-Driven 3D Facial Animation with Transformers|CVPR 22|[paper](https://arxiv.org/abs/2112.05329)|[code](https://github.com/EvelynFan/FaceFormer)|-|
 | Voice2Mesh: Cross-Modal 3D Face Model Generation from Voices |-| [paper](https://arxiv.org/pdf/2104.10299v1.pdf) | [code](https://github.com/choyingw/Voice2Mesh) | - |
 |FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning|ICCV|[paper](https://arxiv.org/pdf/2108.07938v1.pdf)|[code](https://github.com/zhangchenxu528/FACIAL)|-|
 |Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis|-|[paper](https://arxiv.org/pdf/2111.00203v1.pdf)|[code](https://github.com/wuhaozhe/style_avatar) |-|
