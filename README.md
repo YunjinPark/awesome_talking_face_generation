@@ -3,17 +3,17 @@
 # papers & codes 
 ## 2022
 
-| title | - | paper | code | dataset |
-| --- | ---| --- | --- | --- |
-| StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN | -| [paper](https://arxiv.org/abs/2203.04036) | [code](https://github.com/FeiiYin/StyleHEAT) | - |
-
-
+| title | - | paper | code | dataset |keywords|
+| --- | ---| --- | --- | --- | --- |
+| StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN | -| [paper](https://arxiv.org/abs/2203.04036) | [code](https://github.com/FeiiYin/StyleHEAT) | - |stylegan|
+|Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation|-|[paper](https://arxiv.org/pdf/2201.07786.pdf)|[code(coming soon)](https://github.com/alvinliu0/SSP-NeRF)||NeRF|
+|SyncTalkFace: Talking Face Generation with Precise Lip-syncing via Audio-Lip Memory|AAAI(22)| [paper(temp)](https://www.aaai.org/AAAI22Papers/AAAI-7528.ParkS.pdf) | - | LRW, LRS2, BBC News  | - |
 ## 2021
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
 |Parallel and High-Fidelity Text-to-Lip Generation ||[paper](https://arxiv.org/pdf/2107.06831v2.pdf)|| |
 |[Survey]Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis|- |[paper](https://arxiv.org/abs/2109.02081)|-|-| 
-|FaceFormer: Speech-Driven 3D Facial Animation with Transformers|CVPR 22|[paper](https://arxiv.org/abs/2112.05329)|[code](https://github.com/EvelynFan/FaceFormer)|-|
+|FaceFormer: Speech-Driven 3D Facial Animation with Transformers|CVPR(22)|[paper](https://arxiv.org/abs/2112.05329)|[code](https://github.com/EvelynFan/FaceFormer)|-|
 | Voice2Mesh: Cross-Modal 3D Face Model Generation from Voices |-| [paper](https://arxiv.org/pdf/2104.10299v1.pdf) | [code](https://github.com/choyingw/Voice2Mesh) | - |
 |FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning|ICCV|[paper](https://arxiv.org/pdf/2108.07938v1.pdf)|[code](https://github.com/zhangchenxu528/FACIAL)|-|
 |Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis|-|[paper](https://arxiv.org/pdf/2111.00203v1.pdf)|[code](https://github.com/wuhaozhe/style_avatar) |-|
