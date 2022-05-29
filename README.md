@@ -5,9 +5,13 @@
 
 | title | - | paper | code | dataset |keywords|
 | --- | ---| --- | --- | --- | --- |
+|Deep Learning for Visual Speech Analysis: A Survey|-|[paper](https://arxiv.org/abs/2205.10839)|-|-|survey|
 | StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN | -| [paper](https://arxiv.org/abs/2203.04036) | [code](https://github.com/FeiiYin/StyleHEAT) | - |stylegan|
 |Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation|-|[paper](https://arxiv.org/pdf/2201.07786.pdf)|[code(coming soon)](https://github.com/alvinliu0/SSP-NeRF)||NeRF|
+|Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation|-|[paper](https://www.aaai.org/AAAI22Papers/AAAI-6163.YangC.pdf) | -| - | -|
 |SyncTalkFace: Talking Face Generation with Precise Lip-syncing via Audio-Lip Memory|AAAI(22)| [paper(temp)](https://www.aaai.org/AAAI22Papers/AAAI-7528.ParkS.pdf) | - | LRW, LRS2, BBC News  | - |
+|DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering||[paper](https://arxiv.org/abs/2201.00791)|||NeRF|
+
 ## 2021
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
