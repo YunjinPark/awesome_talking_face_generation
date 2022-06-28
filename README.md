@@ -5,13 +5,18 @@
 
 | title | - | paper | code | dataset |keywords|
 | --- | ---| --- | --- | --- | --- |
+|EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model | SIGGRAPH (22)|[paper](https://arxiv.org/pdf/2205.15278.pdf)||emotion|
+| Expressive Talking Head Generation with Granular Audio-Visual Control |CVPR(22)| [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.pdf)| - |  | |
 |Deep Learning for Visual Speech Analysis: A Survey|-|[paper](https://arxiv.org/abs/2205.10839)|-|-|survey|
 | StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN | -| [paper](https://arxiv.org/abs/2203.04036) | [code](https://github.com/FeiiYin/StyleHEAT) | - |stylegan|
 |Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation|-|[paper](https://arxiv.org/pdf/2201.07786.pdf)|[code(coming soon)](https://github.com/alvinliu0/SSP-NeRF)||NeRF|
 |Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation|-|[paper](https://www.aaai.org/AAAI22Papers/AAAI-6163.YangC.pdf) | -| - | -|
 |SyncTalkFace: Talking Face Generation with Precise Lip-syncing via Audio-Lip Memory|AAAI(22)| [paper(temp)](https://www.aaai.org/AAAI22Papers/AAAI-7528.ParkS.pdf) | - | LRW, LRS2, BBC News  | - |
 |DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering||[paper](https://arxiv.org/abs/2201.00791)|||NeRF|
-
+|Face-Dubbing++: Lip-Synchronous, Voice Preserving Translation of Videos||[paper](https://arxiv.org/pdf/2206.04523.pdf)|||
+|Dynamic Neural Textures: Generating Talking-Face Videos with Continuously Controllable Expressions||[paper](https://arxiv.org/pdf/2204.06180.pdf)|||
+|DialogueNeRF: Towards Realistic Avatar Face-to-face Conversation Video Generation||[paper](https://arxiv.org/pdf/2203.07931.pdf)|||
+|Talking Head Generation Driven by Speech-Related Facial Action Units and Audio- Based on Multimodal Representation Fusion||[paper](https://arxiv.org/pdf/2204.12756.pdf)|||
 ## 2021
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
