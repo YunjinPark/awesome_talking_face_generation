@@ -1,10 +1,17 @@
 # Awesome talking face generation
 
 # papers & codes 
+## 2023
+
+| title | - | paper | code | dataset |keywords|
+| --- | ---| --- | --- | --- | --- |
+|Audio-Visual Face Reenactment | WACV (23)|[paper](https://arxiv.org/pdf/2210.02755.pdf)| [code](https://github.com/mdv3101/AVFR-Gan)| | |
+
 ## 2022
 
 | title | - | paper | code | dataset |keywords|
 | --- | ---| --- | --- | --- | --- |
+|Compressing Video Calls using Synthetic Talking Heads | BMVC (22)|[paper](https://arxiv.org/pdf/2210.03692.pdf)| | |application |
 |EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model | SIGGRAPH (22)|[paper](https://arxiv.org/pdf/2205.15278.pdf)||emotion|
 | Expressive Talking Head Generation with Granular Audio-Visual Control |CVPR(22)| [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.pdf)| - |  | |
 |Deep Learning for Visual Speech Analysis: A Survey|-|[paper](https://arxiv.org/abs/2205.10839)|-|-|survey|
