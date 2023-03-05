@@ -5,12 +5,25 @@
 
 | title | - | paper | code | dataset |keywords|
 | --- | ---| --- | --- | --- | --- |
+|DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video|AAAI(23)|[paper](https://fuxivirtualhuman.github.io/pdf/AAAI2023_FaceDubbing.pdf)|[code](https://github.com/MRzzm/DINet)|||
+|CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior||[paper](https://arxiv.org/pdf/2301.02379.pdf)|[code](https://github.com/Doubiiu/CodeTalker)||3D|
+|GENEFACE: GENERALIZED AND HIGH-FIDELITY AUDIO-DRIVEN 3D TALKING FACE SYNTHESIS|ICLR (23)|[paper](https://arxiv.org/pdf/2301.13430.pdf)|[code](https://github.com/yerfor/GeneFace)||NeRF|
+|OPT: ONE-SHOT POSE-CONTROLLABLE TALKING HEAD GENERATION||[paper](https://arxiv.org/pdf/2302.08197.pdf)||||
+|LipNeRF: What is the right feature space to lip-sync a NeRF?||[paper](https://assets.amazon.science/00/58/6b3a5d7e417bae273191ed9ea1b2/lipnerf-what-is-the-right-feature-space-to-lip-sync-a-nerf.pdf)|||NeRF|
 |Audio-Visual Face Reenactment | WACV (23)|[paper](https://arxiv.org/pdf/2210.02755.pdf)| [code](https://github.com/mdv3101/AVFR-Gan)| | |
+|Towards Generating Ultra-High Resolution Talking-Face Videos With Lip Synchronization|WACV (23)|[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Gupta_Towards_Generating_Ultra-High_Resolution_Talking-Face_Videos_With_Lip_Synchronization_WACV_2023_paper.pdf)|-||
+|StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles|AAAI(23)|[paper](https://arxiv.org/pdf/2301.01081.pdf)|[code](https://github.com/FuxiVirtualHuman/styletalk)|||
+|DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis||[paper](https://arxiv.org/pdf/2301.03786.pdf)|[proj](https://sstzal.github.io/DiffTalk/)||Diffusion|
+|Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation||[paper](https://mstypulkowski.github.io/diffusedheads/diffused_heads.pdf)|[proj](https://mstypulkowski.github.io/diffusedheads/)||Diffusion|
+|Speech Driven Video Editing via an Audio-Conditioned Diffusion Model||[paper](https://arxiv.org/pdf/2301.04474.pdf)|[code](https://github.com/DanBigioi/DiffusionVideoEditing)||Diffusion|
+
 
 ## 2022
 
 | title | - | paper | code | dataset |keywords|
 | --- | ---| --- | --- | --- | --- |
+|Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors||[paper](https://arxiv.org/pdf/2212.04248v1.pdf)|[proj](https://zxyin.github.io/TH-PAD/)|||
+|SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation|cvpr(23)|[paper](https://arxiv.org/pdf/2211.12194v1.pdf)|[code](https://github.com/Winfredy/SadTalker)|||
 |Compressing Video Calls using Synthetic Talking Heads | BMVC (22)|[paper](https://arxiv.org/pdf/2210.03692.pdf)| | |application |
 |EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model | SIGGRAPH (22)|[paper](https://arxiv.org/pdf/2205.15278.pdf)|||emotion|
 |Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis|ECCV(22)|[paper](https://arxiv.org/abs/2207.11770)|[code](https://github.com/sstzal/DFRF)|||
@@ -27,9 +40,15 @@
 |DialogueNeRF: Towards Realistic Avatar Face-to-face Conversation Video Generation||[paper](https://arxiv.org/pdf/2203.07931.pdf)|||
 |Talking Head Generation Driven by Speech-Related Facial Action Units and Audio- Based on Multimodal Representation Fusion||[paper](https://arxiv.org/pdf/2204.12756.pdf)|||
 |StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation| - | [paper](https://arxiv.org/abs/2208.10922) | - | - | - |
+|AUTOLV: AUTOMATIC LECTURE VIDEO GENERATOR ||[paper](https://arxiv.org/pdf/2209.08795v1.pdf)||||
+|Synthesizing Photorealistic Virtual Humans Through Cross-modal Disentanglement||[paper](https://arxiv.org/pdf/2209.01320v1.pdf)||||
+
+
 ## 2021
 | title | - | paper | code | dataset |
 | --- | ---| --- | --- | --- |
+|Depth-Aware Generative Adversarial Network for Talking Head Video Generation||[paper](https://arxiv.org/pdf/2203.06605v2.pdf)|[code](https://github.com/sstzal/DFRF)|||
+|||[paper]()|[code]()|||
 |Parallel and High-Fidelity Text-to-Lip Generation ||[paper](https://arxiv.org/pdf/2107.06831v2.pdf)|| |
 |[Survey]Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis|- |[paper](https://arxiv.org/abs/2109.02081)|-|-| 
 |FaceFormer: Speech-Driven 3D Facial Animation with Transformers|CVPR(22)|[paper](https://arxiv.org/abs/2112.05329)|[code](https://github.com/EvelynFan/FaceFormer)|-|
