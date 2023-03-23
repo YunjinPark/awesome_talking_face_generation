@@ -5,6 +5,7 @@
 
 | title | - | paper | code | dataset |keywords|
 | --- | ---| --- | --- | --- | --- |
+|Emotionally Enhanced Talking Face Generation||[paper](https://arxiv.org/pdf/2303.11548.pdf)||CREMA-D|emotion|
 |DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video|AAAI(23)|[paper](https://fuxivirtualhuman.github.io/pdf/AAAI2023_FaceDubbing.pdf)|[code](https://github.com/MRzzm/DINet)|||
 |CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior||[paper](https://arxiv.org/pdf/2301.02379.pdf)|[code](https://github.com/Doubiiu/CodeTalker)||3D|
 |GENEFACE: GENERALIZED AND HIGH-FIDELITY AUDIO-DRIVEN 3D TALKING FACE SYNTHESIS|ICLR (23)|[paper](https://arxiv.org/pdf/2301.13430.pdf)|[code](https://github.com/yerfor/GeneFace)||NeRF|
