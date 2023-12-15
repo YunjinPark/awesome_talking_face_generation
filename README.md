@@ -1,4 +1,7 @@
-# Awesome talking face generation
+<div align="center">
+    <h1>Awesome Talking Face Generation</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+</div>
 
 # papers & codes 
 ## 2023
