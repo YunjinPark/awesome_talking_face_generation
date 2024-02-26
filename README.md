@@ -5,6 +5,7 @@
 
 | title | | paper | code | dataset |keywords|
 | --- | ---| --- | --- | --- | --- |
+|StableFace: Analyzing and Improving Motion Stability for Talking Face Generation| IEEE Journal of Selected Topics in Signal Processing(23) | [paper](https://arxiv.org/abs/2208.13717) | || - |
 |CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior|CVPR(23)|[paper](https://arxiv.org/abs/2301.02379)|[code](https://github.com/Doubiiu/CodeTalker)|BIWI, VOCA||
 |DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation|CVPR(23)|[paper](https://arxiv.org/abs/2301.03786)||HDTF|Diffusion|
 |AVFace: Towards Detailed Audio-Visual 4D Face Reconstruction|CVPR(23)|[paper](https://arxiv.org/abs/2304.13115)||Multiface|3D|
