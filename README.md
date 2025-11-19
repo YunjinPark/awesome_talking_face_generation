@@ -1,9 +1,27 @@
 # Awesome talking face generation
 
 # papers & codes 
+
+## 🔍 Survey / Review Papers
+| Year | Title | Focus/Tag | Paper |
+|------|-------|-----------|------|
+| 2025 | Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions | methods, datasets, metrics | [paper](https://arxiv.org/pdf/2507.02900) |
+| 2024 | A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing| generation/driving/editing, datasets/metrics, applications| [paper](https://arxiv.org/pdf/2406.10553) |
+
+
+
+## 2025
+
+| Title | | Paper | Code | Datasets |Keywords|
+| --- | ---| --- | --- | --- | --- |
+| EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion | CVPR(25) | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_EmotiveTalk_Expressive_Talking_Head_Generation_through_Audio_Information_Decoupling_and_CVPR_2025_paper.pdf) | [project](https://emotivetalk.github.io/) | HDTF, MEAD[ | emotion |
+| InsTaG: Learning Personalized 3D Talking Head from Few-Second Video |CVPR(25)| [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_InsTaG_Learning_Personalized_3D_Talking_Head_from_Few-Second_Video_CVPR_2025_paper.pdf) |[code](https://github.com/Fictionarry/InsTaG)| - |Few-shot Learning|
+| Perceptually Accurate 3D Talking Head Generation: NewDefinitions, Speech-Mesh Representation, and Evaluation Metrics|CVPR(25) | [paper](https://perceptual-3d-talking-head.github.io/media/perceptual-3d-talking-head/perceptual-3d-talking-head.pdf) | [code](https://github.com/kaist-ami/Perceptual-3D-Talking-Head) |  MEAD-3D, VOCASET| 3D |
+| Monocular and Generalizable Gaussian Talking Head Animation |CVPR(25)| [paper](https://arxiv.org/pdf/2504.00665) | [project](https://scut-mmpr.github.io/MGGTalk-Homepage/) | HDTF, NeRSemble | 3D |
+|DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations|CVPR(25)|[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_DualTalk_Dual-Speaker_Interaction_for_3D_Talking_Head_Conversations_CVPR_2025_paper.pdf)|[code](https://github.com/ziqiaopeng/DualTalk)|-|3D, dual|
 ## 2023
 
-| title | | paper | code | dataset |keywords|
+| Title | | Paper | Code | Datasets |Keywords|
 | --- | ---| --- | --- | --- | --- |
 |CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior|CVPR(23)|[paper](https://arxiv.org/abs/2301.02379)|[code](https://github.com/Doubiiu/CodeTalker)|BIWI, VOCA||
 |DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation|CVPR(23)|[paper](https://arxiv.org/abs/2301.03786)||HDTF|Diffusion|
