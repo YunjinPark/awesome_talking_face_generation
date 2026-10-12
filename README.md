@@ -149,4 +149,5 @@
 - LSE-C (Lip Sync Error - Confidence) 
 - LPIPS (Learned Perceptual Image Patch Similarity) [-](https://arxiv.org/pdf/1801.03924.pdf)
 - NIQE (Natural Image Quality Evaluator) [-](http://live.ece.utexas.edu/research/Quality/niqe_spl.pdf)
+- PVSync (lip-sync expert for timing and articulation) [-](https://arxiv.org/pdf/2610.09223)
 
